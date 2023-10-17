@@ -1,5 +1,5 @@
 {
-    "name": "acme/chat-message",
+    "name": "ragab/chat-message",
     "description": "A Laravel Nova resource tool.",
     "keywords": [
         "laravel",
@@ -11,13 +11,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Acme\\ChatMessage\\": "src/"
+            "Ragab\\ChatMessage\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Acme\\ChatMessage\\ToolServiceProvider"
+                "Ragab\\ChatMessage\\ToolServiceProvider"
             ]
         }
     },

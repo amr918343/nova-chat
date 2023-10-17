@@ -1,6 +1,6 @@
 <?php
 
-namespace Acme\ChatMessage;
+namespace Ragab\ChatMessage;
 
 use Laravel\Nova\ResourceTool;
 

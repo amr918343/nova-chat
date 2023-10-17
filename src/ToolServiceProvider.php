@@ -1,6 +1,6 @@
 <?php
 
-namespace Acme\ChatMessage;
+namespace Ragab\ChatMessage;
 
 use Illuminate\Support\Facades\Route;
 use Illuminate\Support\ServiceProvider;
